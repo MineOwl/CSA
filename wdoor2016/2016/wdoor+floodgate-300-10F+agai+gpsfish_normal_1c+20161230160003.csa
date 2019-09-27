@@ -1,0 +1,34 @@
+V2
+N+agai
+N-gpsfish_normal_1c
+'Max_Moves:256
+'Least_Time_Per_Move:0
+'Increment:10
+$EVENT:wdoor+floodgate-300-10F+agai+gpsfish_normal_1c+20161230160003
+$START_TIME:2016/12/30 16:00:02
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:agai+dfa9bb0ae1693466183713daaf48e1cf:gpsfish_normal_1c+2dba5342b2991b80429391ab0fa7925b
+'black_rate:agai+dfa9bb0ae1693466183713daaf48e1cf:3151.0
+'white_rate:gpsfish_normal_1c+2dba5342b2991b80429391ab0fa7925b:2800.0
+%TORYO
+'P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+'P2 * -HI *  *  *  *  * -KA * 
+'P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+'P4 *  *  *  *  *  *  *  *  * 
+'P5 *  *  *  *  *  *  *  *  * 
+'P6 *  *  *  *  *  *  *  *  * 
+'P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+'P8 * +KA *  *  *  *  * +HI * 
+'P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
+'+
+'summary:abnormal:agai lose:gpsfish_normal_1c win
+'$END_TIME:2016/12/30 16:00:10

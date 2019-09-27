@@ -1,0 +1,60 @@
+V2
+N+Apery_i7_2700K
+N-gpsfish_XeonX5680_12c
+'Max_Moves:0
+'Least_Time_Per_Move:0
+$EVENT:wdoor+floodgate-21600-60+Apery_i7_2700K+gpsfish_XeonX5680_12c+20160102100007
+$START_TIME:2016/01/02 10:00:04
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:Apery_i7_2700K+31a49a65ac78e6f80443aa9f445d358e:gpsfish_XeonX5680_12c+08b94d045e0e3bd09d671c403854d2bc
+'black_rate:Apery_i7_2700K+31a49a65ac78e6f80443aa9f445d358e:3242.0
+'white_rate:gpsfish_XeonX5680_12c+08b94d045e0e3bd09d671c403854d2bc:3045.0
++2726FU
+T0
+'** 0
+-8384FU
+T0
++2625FU
+T0
+'** 0
+-8485FU
+T0
++6978KI
+T0
+'** 0
+-4132KI
+T0
++2524FU
+T0
+'** 0
+-2324FU
+T0
++2824HI
+T0
+'** 0
+-0023FU
+T376
+'** -12 -0023FU +2426HI -7162GI +3736FU -3334FU +3938GI -3142GI +3837GI -4344FU +7776FU -4243GI +8877KA -6364FU +1716FU -7374FU +3635FU -3435FU +3746GI -8173KE
+%TORYO
+'P1-KY-KE-GI-KI-OU * -GI-KE-KY
+'P2 * -HI *  *  *  * -KI-KA * 
+'P3-FU * -FU-FU-FU-FU-FU-FU-FU
+'P4 *  *  *  *  *  *  * +HI * 
+'P5 * -FU *  *  *  *  *  *  * 
+'P6 *  *  *  *  *  *  *  *  * 
+'P7+FU+FU+FU+FU+FU+FU+FU * +FU
+'P8 * +KA+KI *  *  *  *  *  * 
+'P9+KY+KE+GI * +OU+KI+GI+KE+KY
+'P+00FU
+'+
+'summary:abnormal:Apery_i7_2700K lose:gpsfish_XeonX5680_12c win
+'$END_TIME:2016/01/02 10:22:52

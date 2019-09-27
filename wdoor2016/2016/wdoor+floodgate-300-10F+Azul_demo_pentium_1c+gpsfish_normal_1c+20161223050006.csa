@@ -1,0 +1,21 @@
+V2
+N+Azul_demo_pentium_1c
+N-gpsfish_normal_1c
+'Max_Moves:256
+'Least_Time_Per_Move:0
+'Increment:10
+$EVENT:wdoor+floodgate-300-10F+Azul_demo_pentium_1c+gpsfish_normal_1c+20161223050006
+$START_TIME:2016/12/23 05:00:02
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:Azul_demo_pentium_1c+b7d8c16b99d99b67ad63d93b216f6544:gpsfish_normal_1c+2dba5342b2991b80429391ab0fa7925b
+'white_rate:gpsfish_normal_1c+2dba5342b2991b80429391ab0fa7925b:2800.0
+'$END_TIME:2016/12/23 05:00:15

@@ -1,0 +1,33 @@
+V2
+N+agai
+N-gps_l
+'Max_Moves:256
+'Least_Time_Per_Move:0
+'Increment:10
+$EVENT:wdoor+floodgate-300-10F+agai+gps_l+20161225203001
+$START_TIME:2016/12/25 20:30:01
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:agai+61cf86b6a50988bc2e2cc900d6941aa5:gps_l+1dadf572b9a37a29d77f3eb2f812f6f4
+'white_rate:gps_l+1dadf572b9a37a29d77f3eb2f812f6f4:2390.0
+%TORYO
+'P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+'P2 * -HI *  *  *  *  * -KA * 
+'P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+'P4 *  *  *  *  *  *  *  *  * 
+'P5 *  *  *  *  *  *  *  *  * 
+'P6 *  *  *  *  *  *  *  *  * 
+'P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+'P8 * +KA *  *  *  *  * +HI * 
+'P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
+'+
+'summary:abnormal:agai lose:gps_l win
+'$END_TIME:2016/12/25 20:30:11

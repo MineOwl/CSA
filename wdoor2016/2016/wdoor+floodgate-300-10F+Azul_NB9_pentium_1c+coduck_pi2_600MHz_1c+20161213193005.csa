@@ -1,0 +1,21 @@
+V2
+N+Azul_NB9_pentium_1c
+N-coduck_pi2_600MHz_1c
+'Max_Moves:256
+'Least_Time_Per_Move:0
+'Increment:10
+$EVENT:wdoor+floodgate-300-10F+Azul_NB9_pentium_1c+coduck_pi2_600MHz_1c+20161213193005
+$START_TIME:2016/12/13 19:30:02
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:Azul_NB9_pentium_1c+5bdfe08179fa813af6923cef233cb403:coduck_pi2_600MHz_1c+d782ff66fc4884bfa16e7997c78eed1a
+'white_rate:coduck_pi2_600MHz_1c+d782ff66fc4884bfa16e7997c78eed1a:1904.0
+'$END_TIME:2016/12/13 19:30:37

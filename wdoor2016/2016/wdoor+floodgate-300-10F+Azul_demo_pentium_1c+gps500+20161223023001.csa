@@ -1,0 +1,21 @@
+V2
+N+Azul_demo_pentium_1c
+N-gps500
+'Max_Moves:256
+'Least_Time_Per_Move:0
+'Increment:10
+$EVENT:wdoor+floodgate-300-10F+Azul_demo_pentium_1c+gps500+20161223023001
+$START_TIME:2016/12/23 02:30:01
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:Azul_demo_pentium_1c+b7d8c16b99d99b67ad63d93b216f6544:gps500+e293220e3f8a3e59f79f6b0efffaa931
+'white_rate:gps500+e293220e3f8a3e59f79f6b0efffaa931:1592.0
+'$END_TIME:2016/12/23 02:30:27

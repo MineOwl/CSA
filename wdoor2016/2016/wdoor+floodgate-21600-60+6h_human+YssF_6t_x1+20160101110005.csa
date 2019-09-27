@@ -1,0 +1,100 @@
+V2
+N+6h_human
+N-YssF_6t_x1
+'Max_Moves:0
+'Least_Time_Per_Move:0
+$EVENT:wdoor+floodgate-21600-60+6h_human+YssF_6t_x1+20160101110005
+$START_TIME:2016/01/01 11:00:04
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:6h_human+d8201c78962aad2e906f7a2ab70408aa:YssF_6t_x1+707d4f98d9d2620cdaab58f19d02a2e4
+'black_rate:6h_human+d8201c78962aad2e906f7a2ab70408aa:2745.0
+'white_rate:YssF_6t_x1+707d4f98d9d2620cdaab58f19d02a2e4:3016.0
++7776FU
+T28
+-3334FU
+T0
+'** 0 3c3d
++2726FU
+T10
+-8384FU
+T0
+'** 0 8c8d
++2625FU
+T11
+-8485FU
+T0
+'** 0 8d8e
++6978KI
+T3
+-4132KI
+T0
+'** 0 4a3b
++2524FU
+T3
+-2324FU
+T0
+'** 0 2c2d
++2824HI
+T3
+-8586FU
+T0
+'** 0 8e8f
++8786FU
+T2
+-8286HI
+T0
+'** 0 8b8f
++2434HI
+T2
+-2233KA
+T0
+'** 0 2b3c
++5958OU
+T4
+-5141OU
+T0
+'** 0 5a4a
++3736FU
+T7
+-7162GI
+T0
+'** 0 7a6b
++2937KE
+T20
+-6151KI
+T0
+'** 0 6a5a
++3938GI
+T478
+-3142GI
+T0
+'** 0 3a4b
++0082FU
+T1093
+-8682HI
+T900
+'** 34 8f8b 8h3c+ 2a3c 7i8h 4a5b B*6f 3b2c P*8c 8b8c 3d3e P*3d
+%TORYO
+'P1-KY-KE *  * -KI-OU * -KE-KY
+'P2 * -HI * -GI * -GI-KI *  * 
+'P3-FU * -FU-FU-FU-FU-KA * -FU
+'P4 *  *  *  *  *  * +HI *  * 
+'P5 *  *  *  *  *  *  *  *  * 
+'P6 *  * +FU *  *  * +FU *  * 
+'P7+FU *  * +FU+FU+FU+KE * +FU
+'P8 * +KA+KI * +OU * +GI *  * 
+'P9+KY+KE+GI *  * +KI *  * +KY
+'P+00FU00FU
+'P-00FU00FU00FU
+'+
+'summary:abnormal:6h_human lose:YssF_6t_x1 win
+'$END_TIME:2016/01/01 11:42:55

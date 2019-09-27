@@ -1,0 +1,46 @@
+V2
+N+Saya_chan_WCSC25ver
+N-6h_human
+'Max_Moves:0
+'Least_Time_Per_Move:0
+$EVENT:wdoor+floodgate-21600-60+Saya_chan_WCSC25ver+6h_human+20160103110007
+$START_TIME:2016/01/03 11:00:04
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:Saya_chan_WCSC25ver+bdd104b76626d90fc5e79b84421e5387:6h_human+d8201c78962aad2e906f7a2ab70408aa
+'black_rate:Saya_chan_WCSC25ver+bdd104b76626d90fc5e79b84421e5387:2886.0
+'white_rate:6h_human+d8201c78962aad2e906f7a2ab70408aa:2765.0
++2726FU
+T0
+'** 0
+-8384FU
+T16
++7776FU
+T0
+'** 0
+-4132KI
+T294
++6978KI
+T0
+'** 0
+'ILLEGAL_MOVE(-8384FU)
+'P1-KY-KE-GI-KI-OU * -GI-KE-KY
+'P2 * -HI *  *  *  * -KI-KA * 
+'P3-FU * -FU-FU-FU-FU-FU-FU-FU
+'P4 * -FU *  *  *  *  *  *  * 
+'P5 *  *  *  *  *  *  *  *  * 
+'P6 *  * +FU *  *  *  * +FU * 
+'P7+FU+FU * +FU+FU+FU+FU * +FU
+'P8 * +KA+KI *  *  *  * +HI * 
+'P9+KY+KE+GI * +OU+KI+GI+KE+KY
+'-
+'summary:illegal move:Saya_chan_WCSC25ver win:6h_human lose
+'$END_TIME:2016/01/03 11:08:20

@@ -1,0 +1,106 @@
+V2
+N+Azul_demo_pentium_1c
+N-ukamuse_6700K
+'Max_Moves:256
+'Least_Time_Per_Move:0
+'Increment:10
+$EVENT:wdoor+floodgate-300-10F+Azul_demo_pentium_1c+ukamuse_6700K+20161212053003
+$START_TIME:2016/12/12 05:30:02
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:Azul_demo_pentium_1c+5bdfe08179fa813af6923cef233cb403:ukamuse_6700K+324d00332c31a91f7beb30ff11312555
+'white_rate:ukamuse_6700K+324d00332c31a91f7beb30ff11312555:3515.0
++7776FU
+T6
+'** 0
+-8384FU
+T0
+'** 0
++2868HI
+T0
+'** 0
+-5142OU
+T0
+'** 0
++5948OU
+T0
+'** 0
+-7162GI
+T0
+'** 0
++1716FU
+T0
+'** 0
+-4232OU
+T0
+'** 0
++1615FU
+T0
+'** 0
+-3334FU
+T0
+'** 0
++8822UM
+T0
+'** 0
+-3222OU
+T0
+'** 0
++3928GI
+T0
+'** 0
+-5354FU
+T0
+'** 0
++7988GI
+T0
+'** 0
+-6152KI
+T0
+'** 0
++2726FU
+T0
+'** 0
+-8485FU
+T0
+'** 0
++2827GI
+T0
+'** 0
+-7374FU
+T0
+'** 0
++6979KI
+T0
+'** 0
+-3132GI
+T19
+'** -222 +8877GI -6253GI +4839OU -2133KE +4938KI -5344GI +6766FU -2324FU +7969KI -5242KI +3928OU -3223GI +6665FU -4253KI +6959KI -0045KA
++4838OU
+T16
+'** -203 -6253GI +8877GI -2324FU +6766FU -3223GI +3828OU -4132KI +4938KI -2133KE +7969KI -5344GI +6665FU -5253KI +6958KI -5455FU +4746FU -5354KI +3736FU -8586FU +7786GI -8173KE +5847KI -7365KE +0073KA
+-2133KE
+T31
+%TORYO
+'P1-KY-KE *  *  * -KI *  * -KY
+'P2 * -HI * -GI-KI * -GI-OU * 
+'P3-FU *  * -FU * -FU-KE-FU-FU
+'P4 *  * -FU * -FU * -FU *  * 
+'P5 * -FU *  *  *  *  *  * +FU
+'P6 *  * +FU *  *  *  * +FU * 
+'P7+FU+FU * +FU+FU+FU+FU+GI * 
+'P8 * +GI * +HI *  * +OU *  * 
+'P9+KY+KE+KI *  * +KI * +KE+KY
+'P+00KA
+'P-00KA
+'+
+'summary:abnormal:Azul_demo_pentium_1c lose:ukamuse_6700K win
+'$END_TIME:2016/12/12 05:32:01

@@ -1,0 +1,34 @@
+V2
+N+agai
+N-KKS_ukamuse_i7_6500U
+'Max_Moves:256
+'Least_Time_Per_Move:0
+'Increment:10
+$EVENT:wdoor+floodgate-300-10F+agai+KKS_ukamuse_i7_6500U+20161231083003
+$START_TIME:2016/12/31 08:30:02
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:agai+dfa9bb0ae1693466183713daaf48e1cf:KKS_ukamuse_i7_6500U+23feeb15cf22fae39135babc80cb5941
+'black_rate:agai+dfa9bb0ae1693466183713daaf48e1cf:3154.0
+'white_rate:KKS_ukamuse_i7_6500U+23feeb15cf22fae39135babc80cb5941:3221.0
+%TORYO
+'P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+'P2 * -HI *  *  *  *  * -KA * 
+'P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+'P4 *  *  *  *  *  *  *  *  * 
+'P5 *  *  *  *  *  *  *  *  * 
+'P6 *  *  *  *  *  *  *  *  * 
+'P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+'P8 * +KA *  *  *  *  * +HI * 
+'P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
+'+
+'summary:abnormal:agai lose:KKS_ukamuse_i7_6500U win
+'$END_TIME:2016/12/31 08:30:44

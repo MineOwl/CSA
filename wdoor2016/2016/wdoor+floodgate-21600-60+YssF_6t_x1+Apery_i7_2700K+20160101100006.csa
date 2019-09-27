@@ -1,0 +1,110 @@
+V2
+N+YssF_6t_x1
+N-Apery_i7_2700K
+'Max_Moves:0
+'Least_Time_Per_Move:0
+$EVENT:wdoor+floodgate-21600-60+YssF_6t_x1+Apery_i7_2700K+20160101100006
+$START_TIME:2016/01/01 10:00:04
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:YssF_6t_x1+707d4f98d9d2620cdaab58f19d02a2e4:Apery_i7_2700K+31a49a65ac78e6f80443aa9f445d358e
+'black_rate:YssF_6t_x1+707d4f98d9d2620cdaab58f19d02a2e4:3016.0
+'white_rate:Apery_i7_2700K+31a49a65ac78e6f80443aa9f445d358e:3227.0
++7776FU
+T0
+'** 0 7g7f
+-8384FU
+T0
+'** 0
++2726FU
+T0
+'** 0 2g2f
+-8485FU
+T0
+'** 0
++8877KA
+T0
+'** 0 8h7g
+-3334FU
+T0
+'** 0
++7988GI
+T0
+'** 0 7i8h
+-4132KI
+T0
+'** 0
++6978KI
+T0
+'** 0 6i7h
+-6364FU
+T0
+'** 0
++2625FU
+T8
+'** 119 2f2e 2b7g+ 8h7g 3a2b 2e2d 2c2d 2h2d 7a6b 2d3d 6b6c 4i3h
+-2277UM
+T0
+'** 0
++8877GI
+T24
+'** 105 8h7g 3a2b 2e2d 2c2d 2h2d 7a6b 2d3d 6b6c 5i5h 2a3c 4i3h
+-3122GI
+T0
+'** 0
++2524FU
+T7
+'** 123 2e2d 2c2d 2h2d 7a6b 2d3d 6b6c 5i5h 2b2c 3d3f 2a3c 3f2f
+-2324FU
+T0
+'** 0
++2824HI
+T7
+'** 164 2h2d 7a6b 2d3d 6b6c 5i5h 5a4b 3d2d 2b2c 2d2h P*2d 4i3h
+-0035KA
+T0
+'** 0
++2434HI
+T8
+'** 183 2d3d 3e5g+ 3d6d 5g4g B*3h 4g3h 4i3h 7a6b 3i4h 5a4a P*2d
+-3557UM
+T0
+'** 0
++3464HI
+T23
+'** 164 3d6d 5g4g 3i3h 4g5f 6d2d 8e8f 8g8f P*8h 2d2f 5f3d 7h8h
+-5747UM
+T0
+'** 0
++3938GI
+T7
+'** 118 3i3h 4g5f 6d2d 2a3c P*5d 5f4f 2d2f 4f3e 2f3f 3e3f 3g3f
+-4725UM
+T0
+'** 0
++3736FU
+T24
+'** 199 3g3f 6a5b 2i3g 2e3f 6d3d 3f1d 5i6h P*2d B*4g 2b3c 4g1d
+%TORYO
+'P1-KY-KE-GI-KI-OU *  * -KE-KY
+'P2 * -HI *  *  *  * -KI-GI * 
+'P3-FU * -FU * -FU-FU *  * -FU
+'P4 *  *  * +HI *  *  *  *  * 
+'P5 * -FU *  *  *  *  * -UM * 
+'P6 *  * +FU *  *  * +FU *  * 
+'P7+FU+FU+GI+FU *  *  *  * +FU
+'P8 *  * +KI *  *  * +GI *  * 
+'P9+KY+KE *  * +OU+KI * +KE+KY
+'P+00FU00FU00FU00KA
+'P-00FU00FU00FU
+'-
+'summary:abnormal:YssF_6t_x1 win:Apery_i7_2700K lose
+'$END_TIME:2016/01/01 12:13:17

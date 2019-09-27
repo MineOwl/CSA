@@ -1,0 +1,22 @@
+V2
+N+aprt
+N-ukamuse_NB8_2c
+'Max_Moves:256
+'Least_Time_Per_Move:0
+'Increment:10
+$EVENT:wdoor+floodgate-300-10F+aprt+ukamuse_NB8_2c+20161219040004
+$START_TIME:2016/12/19 04:00:01
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:aprt+12ef99a504e216297d760b151ee6644a:ukamuse_NB8_2c+091192ac818fc94d17e7fee4674a703f
+'black_rate:aprt+12ef99a504e216297d760b151ee6644a:3177.0
+'white_rate:ukamuse_NB8_2c+091192ac818fc94d17e7fee4674a703f:3229.0
+'$END_TIME:2016/12/19 04:04:42
